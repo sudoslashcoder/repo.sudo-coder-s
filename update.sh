@@ -31,7 +31,7 @@ if [ ! -f "$RELEASE_FILE" ]; then
     echo "[*] No Release file found, generating a default one..."
     cat > "$RELEASE_FILE" <<EOF
 Origin: My Tweak Repo
-Label: MyRepo
+Label: Sudo/Coder
 Suite: stable
 Version: 1.0
 Codename: ios
