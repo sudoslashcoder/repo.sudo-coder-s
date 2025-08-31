@@ -1,10 +1,8 @@
-cat > Release <<EOF
-Origin: My Repo
-Label: Sudo/Coder
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: My tweak repo
-EOF
+Package: com.slash.quickapplauncher
+Name: QuickAppLauncher
+Version: 0.03
+Architecture: iphoneos-arm64
+Maintainer: sudoslashcoder
+Filename: debs/com.slash.quickapplauncher_0.0.3-1+debug_iphoneos-arm64.deb
+Size: 600
+Description: my first Tweak!!!!!!!!!!!!!!!!!!!!!!!
